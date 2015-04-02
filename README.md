@@ -7,3 +7,5 @@ Add the following to the end of ./.git/config
 [diff "zip"]
         textconv = unzip -c -a
 ```
+
+The appropriate changes have already been made to the `.gitattributes` file.
