@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="17" height="13" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Outside_A1" tilewidth="16" tileheight="16">
+  <image source="../../../.PlayOnLinux/wineprefix/Steam/drive_c/Program Files/Steam/steamapps/common/RPGVXAce/rtp/Graphics/Tilesets/Outside_A1.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="769" name="Outside_A2" tilewidth="16" tileheight="16">
+  <image source="../../../.PlayOnLinux/wineprefix/Steam/drive_c/Program Files/Steam/steamapps/common/RPGVXAce/rtp/Graphics/Tilesets/Outside_A2.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="1537" name="Outside_A3" tilewidth="32" tileheight="32">
+  <image source="../../../.PlayOnLinux/wineprefix/Steam/drive_c/Program Files/Steam/steamapps/common/RPGVXAce/rtp/Graphics/Tilesets/Outside_A3.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="1665" name="Outside_A4" tilewidth="16" tileheight="16">
+  <image source="../../../.PlayOnLinux/wineprefix/Steam/drive_c/Program Files/Steam/steamapps/common/RPGVXAce/rtp/Graphics/Tilesets/Outside_A4.png" width="512" height="480"/>
+ </tileset>
+ <tileset firstgid="2625" name="Outside_A5" tilewidth="32" tileheight="32">
+  <image source="../../../.PlayOnLinux/wineprefix/Steam/drive_c/Program Files/Steam/steamapps/common/RPGVXAce/rtp/Graphics/Tilesets/Outside_A5.png" width="256" height="512"/>
+ </tileset>
+ <tileset firstgid="2753" name="Outside_B" tilewidth="32" tileheight="32">
+  <image source="../../../.PlayOnLinux/wineprefix/Steam/drive_c/Program Files/Steam/steamapps/common/RPGVXAce/rtp/Graphics/Tilesets/Outside_B.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="3009" name="Outside_C" tilewidth="32" tileheight="32">
+  <image source="../../../.PlayOnLinux/wineprefix/Steam/drive_c/Program Files/Steam/steamapps/common/RPGVXAce/rtp/Graphics/Tilesets/Outside_C.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="17" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU0BMAAAN0AAE=
+  </data>
+ </layer>
+</map>
