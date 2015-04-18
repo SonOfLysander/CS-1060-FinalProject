@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="17" height="19" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" source="../tilesets/Outside_A1.tsx"/>
+ <tileset firstgid="769" source="Outside_A2.tsx"/>
+ <tileset firstgid="1537" source="Outside_A3.tsx"/>
+ <tileset firstgid="1665" source="Outside_A4.tsx"/>
+ <tileset firstgid="2625" source="Outside_A5.tsx"/>
+ <tileset firstgid="2753" source="Outside_B.tsx"/>
+ <tileset firstgid="3009" source="Outside_C.tsx"/>
+ <layer name="Tile Layer 1" width="17" height="19">
+  <data encoding="base64" compression="zlib">
+   eJxjYGBgCOQiH8PAqBmDzwxK9I/iUTzSMAAilG3Y
+  </data>
+ </layer>
+</map>
